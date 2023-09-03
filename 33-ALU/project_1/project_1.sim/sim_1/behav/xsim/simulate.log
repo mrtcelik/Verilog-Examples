@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+Test baþlatýlýyor...
+Test 1 baþarýsýz! Sonuç: 00001111
+Test 2 baþarýsýz! Sonuç: 00000110
+$finish called at time : 20 ns : File "C:/Users/New/Desktop/Verilog/33-ALU/project_1/project_1.srcs/sim_1/new/alu_tb.v" Line 50
